@@ -1,5 +1,7 @@
 # git-github-practice
+
 My journey of learning Git and GitHub from beginner to advanced level.
+
 ## My Learning Progress
 
 Day 1: Created my first GitHub repository.
@@ -14,7 +16,10 @@ Day 1: Created my first GitHub repository.
 ## Upcoming Topics
 
 
-- Git commands
-- Branching
-- Merging
-- Pull Requests
+
+* Git commands
+* Branching
+* Merging
+* Pull Requests
+* Learning Git and GitHub from my Windows laptop!
+
